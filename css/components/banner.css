@@ -1,0 +1,14 @@
+.banner {
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    height: 300px;
+    color: rgb(255, 234, 221);
+    position: relative;
+    text-align: right; 
+    padding-top: 5px;
+}
+.banner .container {
+    margin-right: 80px;
+    margin-top: 80px;
+}

@@ -1,0 +1,25 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.inmersive img {
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+.card{
+    margin-top: 20px;
+    box-shadow: 3px 3px 10px 0.5px rgb(107, 107, 107);
+    border-radius: 4px;
+    padding: 10px;
+    width: 220px;
+}
+
+.container-card{
+    width: 100%;
+    text-align: center;
+}
+.card img {
+    height: 80px;
+}

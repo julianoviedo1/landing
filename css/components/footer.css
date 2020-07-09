@@ -1,0 +1,12 @@
+.footer {
+    background-color: rgb(95, 95, 95);
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+    height: 150px;
+    color: rgb(219, 213, 209);
+    position: relative;
+    text-align: right; 
+    padding-top: 5px;
+    margin-top: 50px;
+}
